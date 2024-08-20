@@ -1,0 +1,6 @@
+numpy
+nibabel
+tensorflow
+tiffile
+matplotlib
+scikit-learn
