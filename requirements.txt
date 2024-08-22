@@ -1,6 +1,8 @@
 numpy
 nibabel
-tensorflow
 tiffile
 matplotlib
 scikit-learn
+torch
+import_ipynb
+torchmetrics
