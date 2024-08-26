@@ -1,4 +1,5 @@
 # Brain Tumor Segmentation Project
+![image](https://github.com/user-attachments/assets/fe1509e6-b736-40da-9e91-fd13746a6d55)
 
 ## Overview
 
