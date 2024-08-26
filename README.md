@@ -1,4 +1,4 @@
-# Brain Tumor Segmentation Project
+# Brain Tumor Segmentation Using 3D-Unet 
 ![image](https://github.com/user-attachments/assets/fe1509e6-b736-40da-9e91-fd13746a6d55)
 
 ## Overview
